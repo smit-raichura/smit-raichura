@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **React, Python, Javascript**
 
+- 🔗 Check out my <a href="[https://twitter.com/](https://smit-raichura.github.io/MyPortfolio/)" target="blank">portfolio</a>
+
 - 📫 How to reach me **smit.raichura01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
